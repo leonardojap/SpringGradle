@@ -28,12 +28,17 @@ cd SpringGradle
 ./gradlew compileJava
 ./gradlew bootRun
 ```
+![image](https://github.com/leonardojap/SpringGradle/assets/8810299/68b21584-7352-4428-8950-d3b7fbc2c869)
+
 
 - To run test:
 
 ```bash
 ./gradlew test
 ```
+
+![image](https://github.com/leonardojap/SpringGradle/assets/8810299/de150b1b-cb4e-4708-ad89-fbf45a36e47d)
+
 
 ## Services
 
